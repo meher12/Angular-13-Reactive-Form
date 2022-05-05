@@ -11,3 +11,6 @@ The form has:
 - Accept Terms Checkbox: required
 
 [![form13.png](https://i.postimg.cc/J0tdQk5T/form13.png)](https://postimg.cc/305B8W6p)
+
+## Some fields could be wrong:
+[![form13.png](https://i.postimg.cc/kgtNvc36/form13.png)](https://postimg.cc/CRSfFbKS)
